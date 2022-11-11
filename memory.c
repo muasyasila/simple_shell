@@ -14,5 +14,5 @@ int bfree(void **ptr)
 		*ptr = NULL;
 		return (1);
 	}
-	return ();
+	return (0);
 }
