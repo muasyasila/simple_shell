@@ -1,6 +1,6 @@
 =====================Team Project (Simle Shell)============================
 
-                              -Titus & Curtis-
+                              -Titayi & Curtis-
 
                                   @titayi.
                                 @muasyasila.
